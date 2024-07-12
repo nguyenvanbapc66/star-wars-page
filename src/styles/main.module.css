@@ -1,0 +1,14 @@
+.paginationItemDisabled {
+  @apply bg-white text-white rounded-md; /* Tailwind classes for non-selected pages */
+}
+
+.paginationItemActive {
+}
+
+.paginationItemArrow {
+  @apply bg-white text-black;
+}
+
+.paginationItemLink {
+  @apply text-white;
+}
